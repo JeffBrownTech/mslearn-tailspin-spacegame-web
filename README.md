@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/JeffBrownTech/Space%20Game%20-%20Web/_apis/build/status/JeffBrownTech.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/JeffBrownTech/Space%20Game%20-%20Web/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
